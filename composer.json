@@ -14,7 +14,7 @@
 		"ezyang/htmlpurifier" : "^4.9",
 		"obsoletepackage/phpquery" : "^1.0.1",
 		"topthink/think-orm" : "^2.0",
-		"xia/migration" : "^6.0",
+		"xia/migration" : "^6.0"
 	},
 	"autoload" : {
 		"psr-4" : {
